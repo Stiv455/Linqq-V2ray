@@ -13,7 +13,6 @@ A V2Ray client for Android, support [Xray core](https://github.com/XTLS/Xray-cor
 > [!NOTE]
 >
 > Linqq-V2ray (Neko-ray) is a redesigned application from [V2rayNG](https://github.com/2dust/v2rayNG)
-> [!NOTE]
 >
 > The purpose of the modification is to adapt the program for the Russian segment, correct errors, and add new features.
 
