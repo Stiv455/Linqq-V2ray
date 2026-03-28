@@ -1,11 +1,17 @@
 {
   "latestVersion": "1.9.41",
   "latestVersionCode": 1000638,
-  "url": "https://github.com/Stiv455/Linqq-V2ray/releases/tag/1.9.39",
+  "url": "https://github.com/Stiv455/Linqq-V2ray/releases/tag/1.9.41",
   "releaseNotes": [
     "",
-    "𝒩ℯ𝓀ℴ Linqq-V2ray 1.9.41",
+    "Linqq-V2ray 1.9.41",
     "𝗕𝘂𝗶𝗹𝗱 𝗗𝗮𝘁𝗲: 28 Марта 2025",
+    "+ Улучшения в дизайне",
+    "+ Переработка в интерфейсе",
+    "+ Добавлен github wiki по некоторым функциям",
+    "+ Русский geoip.dat, geosite.dat",
+    "- Китайский geoip.dat, geosite.dat", 
+    "- Вырезана часть неиспользуемого кода",
     ""
   ]
 }
